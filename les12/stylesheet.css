@@ -1,0 +1,105 @@
+header{
+    background-color: green;
+    color: black;
+    height: 100px;
+    width: 1000px;
+    padding-top: 10px;
+    }
+footer{
+    background-color: red;
+    color: darkblue ;
+    height: 100px;
+    width: 1000px; 
+    padding-top: 10px;
+    
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+td{ 
+    width: 250px;
+}
+#cel1{
+    background-color: darkslategrey;
+    text-align: center;
+    }
+
+#cel2{
+    background-color: red;
+}
+#cel3{
+    background-color: yellow;
+    text-align: center;
+}
+#cel4{
+    background-color: blue;
+}
+#cel5{
+    background-color: aqua;
+    text-align: center;
+}
+#cel6{
+    background-color: blueviolet;
+}
+#cel7{
+    background-color: cadetblue;
+    text-align: center;
+}
+#cel8{
+    background-color: azure;
+}
+#cel9{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+#cel10{
+    background-color: darkgreen;
+}
+#cel11{
+    background-color: beige;
+    text-align: center;
+}
+#cel12{
+    background-color: cyan;
+}
+#cel13{
+    background-color: darkslateblue;
+    text-align: center;
+}
+#cel14{
+    background-color: brown;
+}
+#cel15{
+    background-color: chartreuse;
+    text-align: center;
+}
+#cel16{
+    background-color: chocolate;
+}
+span{
+        background-color: #f18973;
+}
+span1{
+    background-color: deepskyblue;
+}
+span2{
+    background-color: darkred;
+}
+span3{
+    background-color: green;
+}
+span4{
+    background-color: gold;
+}
+span5{
+    background-color: blueviolet;
+}
+span6{
+    background-color: floralwhite;
+}
+span7{
+    background-color: fuchsia;
+}
